@@ -10,6 +10,6 @@ show_call_box: true
 
 # Jing Shang
 
-Hi, my name is Jing. I'm a first-year PhD student @[Stanford Statistics](statistics.stanford.edu). I'm broadly interested in causal inference and its application in various fields. Additionally, I'm also interested in studying problems in applied probability.
+Hi, my name is Jing. I'm a first-year PhD student @[Stanford Statistics](https://statistics.stanford.edu/). I'm broadly interested in causal inference and its application in various fields. Additionally, I'm also interested in studying problems in applied probability.
 
-Prior to Stanford, I received [Bachelor of Economics](econ.fudan.edu.cn) from [Fudan Univerisity](https://www.fudan.edu.cn/) ('23).
+Prior to Stanford, I received [Bachelor of Economics](https://econ.fudan.edu.cn/) from [Fudan Univerisity](https://www.fudan.edu.cn/) ('23).
