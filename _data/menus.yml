@@ -1,5 +1,5 @@
 main:
-  - name: "Reseaerch"
+  - name: "Research"
     url: "/services/"
     weight: 2
   - name: "Teaching"
