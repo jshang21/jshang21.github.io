@@ -15,5 +15,3 @@ I spent a summer playing with forestry data in [Dr. McConville's](http:///mcconv
 # Art 🎨
 
 I enjoy creating art with iPad and hence a big fan of David Hockney's [recent artworks](https://www.hockney.com/index.php/works/digital/ipad){:target="_blank"}! I designed T-shirts twice for the research lab I was working in. See the design from 2022 on the RHS, as well as the design from 2023 on the [research page](https://jshang21.github.io/services/).
-
-![Accounting Services](/images/design/design_2022.png)
