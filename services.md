@@ -1,8 +1,8 @@
 ---
-title: Services
-layout: services
-description: Services
-intro_image: "images/illustrations/reading.svg"
+title: Research
+layout: fun
+description: research
+intro_image: "images/design/design_2023.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
