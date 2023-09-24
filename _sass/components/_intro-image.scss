@@ -29,11 +29,11 @@
     width: 600px;
   }
   @include media-breakpoint-up(xl) {
-    top:-120px;
+    top:-50px;
     bottom: -50px;
     left: -50px;
     right:-50px;
-    height: 600px;
+    height: 570px;
     width: 720px;
   }
 }
