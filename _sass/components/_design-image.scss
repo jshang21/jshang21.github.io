@@ -17,24 +17,24 @@
     bottom: -10px;
     left: -10px;
     right:-10px;
-    height: 381px;
-    width: 300px;
+    height: 600px;
+    width: 400px;
   }
   @include media-breakpoint-up(lg) {
     top: -20px;
     bottom: -20px;
     left: -20px;
     right:-20px;
-    height: 508px;
-    width: 400px;
+    height: 750px;
+    width: 500px;
   }
   @include media-breakpoint-up(xl) {
     top:-30px;
     bottom: -30px;
     left: -30px;
     right:-30px;
-    height: 635px;
-    width: 500px;
+    height: 900px;
+    width: 600px;
   }
 }
 .design-image-hide-mobile {
