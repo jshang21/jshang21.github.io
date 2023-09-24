@@ -2,9 +2,9 @@
 title: Fun
 layout: fun
 description: fun
-intro_image: "images/design/design_2022.png"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
+design_image: "images/design/design_2022.png"
+design_image_absolute: true
+design_image_hide_on_mobile: true
 ---
 
 # Interactive Dashboard on Forestry Database 🌳
