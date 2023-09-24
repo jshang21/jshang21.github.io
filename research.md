@@ -2,9 +2,9 @@
 title: Research
 layout: research
 description: research
-intro_image: "images/design/design_2023.png"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
+design_image: "images/design/design_2023.png"
+design_image_absolute: true
+design_image_hide_on_mobile: true
 ---
 
 # Undergraduate Works
