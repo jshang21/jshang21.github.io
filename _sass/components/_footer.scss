@@ -1,6 +1,6 @@
 .footer {
   background: $footer-background-color;
-  padding-top: 15px;
+  padding-top: 0px;
   padding-bottom: 15px;
   .footer-inner {
     display: flex;
@@ -25,7 +25,7 @@
   }
   .copyright {
     color: #ffffff;
-    margin-top: 10px;
+    margin-bottom: 10px;
     font-size: 14px;
     a {
       font-weight: bold;
