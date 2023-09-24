@@ -21,14 +21,14 @@
   @include media-breakpoint-up(lg) {
     top: -60px;
     left: -60px;
-    height: 500px;
-    width: 600px;
+    height: 400px;
+    width: 480px;
   }
   @include media-breakpoint-up(xl) {
     top: -80px;
     left: -80px;
-    height: 700px;
-    width: 840px;
+    height: 500px;
+    width: 600px;
   }
 }
 .intro-image-hide-mobile {
