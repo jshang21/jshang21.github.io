@@ -6,8 +6,8 @@ main:
     url: "/services/"
     weight: 3
   - name: "Teaching"
-    url: "/team/"
+    url: "/teaching/"
     weight: 4
-  - name: "About"
+  - name: "Fun"
     url: "/about/"
     weight: 5
