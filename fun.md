@@ -2,7 +2,7 @@
 title: Fun
 layout: page
 description: Fun
-bodyClass: page-about
+bodyClass: page-fun
 ---
 
 # Interactive Dashboard on Forestry Database 🌳
