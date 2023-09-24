@@ -1,7 +1,7 @@
 ---
 title: Fun
 layout: fun
-description: Fun
+description: 
 permalink: "/fun/"
 intro_image: "images/design/design_2022.png"
 intro_image_absolute: true
