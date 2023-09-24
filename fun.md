@@ -2,7 +2,7 @@
 title: Fun
 layout: fun
 description: Fun
-bodyClass: page-fun
+permalink: "/fun/"
 intro_image: "images/design/design_2022.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
