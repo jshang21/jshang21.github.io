@@ -1,8 +1,11 @@
 ---
 title: Fun
-layout: page
+layout: fun
 description: Fun
 bodyClass: page-fun
+intro_image: "images/design/design_2022.png"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
 ---
 
 # Interactive Dashboard on Forestry Database 🌳
