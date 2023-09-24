@@ -1,8 +1,7 @@
 ---
 title: Fun
 layout: fun
-description: 
-permalink: "/fun/"
+description: fun
 intro_image: "images/design/design_2022.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
