@@ -1,7 +1,7 @@
 [
   {
     "name": "Email",
-    "link": <a href=mailto:“jshang21@stanford.edu”>,
+    "link": "<a href=mailto:“jshang21@stanford.edu”>",
     "image": "images/social/email.png"
   },
   {
