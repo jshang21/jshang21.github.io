@@ -13,7 +13,7 @@
   }
   @include media-breakpoint-up(md) {
     position: absolute;
-    top: -30px;
+    top: -70px;
     bottom: -30px;
     left: -30px;
     right:-30px;
@@ -21,7 +21,7 @@
     width: 500px;
   }
   @include media-breakpoint-up(lg) {
-    top: -40px;
+    top: -90px;
     bottom: -40px;
     left: -40px;
     right:-40px;
