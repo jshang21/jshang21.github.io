@@ -1,11 +1,12 @@
 ---
 title: Teaching
-layout: page
+layout: teaching
 description: Teaching
-permalink: "/teaching/"
-intro_image_absolute: true
-intro_image_hide_on_mobile: false
+design_image: "images/teaching.png"
+design_image_absolute: true
+design_image_hide_on_mobile: true
 ---
+
 
 # Undergraduate Teaching Assistant
 
