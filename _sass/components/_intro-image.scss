@@ -7,19 +7,19 @@
 .intro-image-absolute {
   max-width: none;
 
-  padding: 80px;
+  margin-top: 80px;
   margin-bottom: 10px;
   @include media-breakpoint-up(sm) {
   }
   @include media-breakpoint-up(md) {
     position: absolute;
-    bottom: -50px;
-    left: -50px;
+    bottom: -30px;
+    left: -60px;
     width: 700px;
   }
   @include media-breakpoint-up(lg) {
-    bottom: -60px;
-    left: -60px;
+    bottom: -40px;
+    left: -80px;
     width: 800px;
   }
   @include media-breakpoint-up(xl) {
