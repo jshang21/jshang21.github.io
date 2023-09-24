@@ -1,6 +1,6 @@
 ---
 title: Teaching
-layout: teams
+layout: page
 description: Teaching
 permalink: "/teaching/"
 intro_image_absolute: true
