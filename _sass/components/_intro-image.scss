@@ -15,20 +15,20 @@
     position: absolute;
     top: -40px;
     left: -40px;
-    height: 500px;
-    width: 900px;
+    height: 300px;
+    width: 360px;
   }
   @include media-breakpoint-up(lg) {
     top: -60px;
     left: -60px;
-    height: 1000px;
-    width: 1400px;
+    height: 500px;
+    width: 600px;
   }
   @include media-breakpoint-up(xl) {
     top: -80px;
     left: -80px;
-    height: 1500px;
-    width: 1900px;
+    height: 700px;
+    width: 840px;
   }
 }
 .intro-image-hide-mobile {
