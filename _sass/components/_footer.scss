@@ -1,7 +1,7 @@
 .footer {
   background: $footer-background-color;
   padding-top: 0px;
-  padding-bottom: 15px;
+  padding-bottom: 5px;
   .footer-inner {
     display: flex;
     justify-content: space-between;
@@ -18,14 +18,14 @@
     font-size: 1.3rem;
     font-family: $font-family-heading;
     font-weight: bold;
-    margin-bottom: 10px;
+    margin-top: 10px;
     @include media-breakpoint-up(sm) {
       margin: 0;
     }
   }
   .copyright {
     color: #ffffff;
-    margin-bottom: 10px;
+    margin-top: 10px;
     font-size: 14px;
     a {
       font-weight: bold;
