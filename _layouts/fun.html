@@ -10,9 +10,9 @@ bodyClass: "page-basic"
       <div class="col-12 col-md-8 col-lg-8 order-2 order-md-1">
         <div class="content">{{content}}</div>
       </div>
-      {% if page.intro_image %}
+      {% if page.design_image %}
       <div class="col-12 col-md-4 col-lg-4 order-1 order-md-2 position-relative">
-        <img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relative_url }}" />
+        <img alt={{ page.title }} class="design-image{% if page.intro_image_absolute %} design-image-absolute{% endif %}{% if page.design_image_hide_on_mobile %} design-image-hide-mobile{% endif %}" src="{{ page.design_image | relative_url }}" />
       </div>
       {% endif %}
     </div>
