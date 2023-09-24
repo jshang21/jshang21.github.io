@@ -7,7 +7,7 @@
 .intro-image-absolute {
   max-width: none;
 
-  padding: 5px;
+  padding: 0;
   margin-bottom: 15px;
   @include media-breakpoint-up(sm) {
   }
@@ -29,7 +29,7 @@
     width: 600px;
   }
   @include media-breakpoint-up(xl) {
-    top:-50px;
+    top:-100px;
     bottom: -50px;
     left: -50px;
     right:-50px;
