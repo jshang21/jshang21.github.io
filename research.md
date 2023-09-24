@@ -14,7 +14,7 @@ design_image_hide_on_mobile: true
 * **Forestry Data Science**
   * [Comparison Study of the Generalized Multivariate Difference Estimator and the Generalized Regression Estimator](https://www.causeweb.org/usproc/eusr/2022/virtual-posters/8){:target="_blank"}  
     J. Shang\*, A. Chilambo\*, and K. McConville  
-    \textcolor{gray}{Electronic Undergraduate Statistics Research Conference (eUSR), 2022.}
+    $${\color{lightgray}Electronic Undergraduate Statistics Research Conference (eUSR), 2022.}$$
 
   * A Study on Variance Estimators for Ratios and Grading System for Estimation Quality of Carbon Amount  
     J. Shang\*, J. Yamamoto\*, and K. McConville
