@@ -2,7 +2,7 @@
 title: Teaching
 layout: teaching
 description: Teaching
-design_image: "images/teaching.png"
+design_image: "images/illustrations/teaching.png"
 design_image_absolute: true
 design_image_hide_on_mobile: true
 ---
