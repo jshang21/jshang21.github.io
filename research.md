@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: fun
+layout: research
 description: research
 intro_image: "images/design/design_2023.png"
 intro_image_absolute: true
