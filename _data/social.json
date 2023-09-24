@@ -1,12 +1,12 @@
 [
   {
     "name": "Email",
-    "link": "mailto:jshang21@stanford.edu",
+    "link": "<a href=mailto:“jshang21@stanford.edu”>",
     "image": "images/social/email.png"
   },
   {
     "name": "Github",
-    "link": <a href=mailto:“jshang21@stanford.edu”>,
+    "link": https://github.com/jshang21",
     "image": "images/social/github.png"
   },
   {
