@@ -15,17 +15,14 @@
     position: absolute;
     top: -40px;
     left: -40px;
-    width: 700px;
   }
   @include media-breakpoint-up(lg) {
     top: -60px;
     left: -60px;
-    width: 800px;
   }
   @include media-breakpoint-up(xl) {
     top: -80px;
     left: -80px;
-    width: 850px;
   }
 }
 .intro-image-hide-mobile {
