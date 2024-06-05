@@ -15,5 +15,5 @@ design_image_hide_on_mobile: true
 
 # Graduate Teaching Assistant
 
-*  **STATS 215**: Statistical Models in Biology (2024 Winter, Instructor: Susan Holmes)
 *  **STATS 191**: Introduction to Applied Statistics (2024 Spring, Instructor: Jonathan Taylor)
+*  **STATS 215**: Statistical Models in Biology (2024 Winter, Instructor: Susan Holmes)
