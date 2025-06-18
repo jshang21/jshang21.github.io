@@ -11,6 +11,7 @@ design_image_hide_on_mobile: true
 
 # Graduate Teaching Assistant
 
+*  **STATS 191**: Introduction to Applied Statistics (2025 Spring, Instructor: Guenther Walther)
 *  **STATS 202F**: Statistical Learning and Data Science [Flipped] (2025 Winter, Instructor: Robert Tibshirani)
 *  **STATS 60/160**: Introduction to Statistical Methods: Precalculus (2024 Summer, Instructor: Olga Dekhtyar)
 *  **STATS 191**: Introduction to Applied Statistics (2024 Spring, Instructor: Jonathan Taylor)
