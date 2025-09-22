@@ -11,7 +11,7 @@ design_image_hide_on_mobile: true
 
 * **Statistical Methodology**
   * Pre-validation Revisited
-    J. Shang, S. Chatterjee, T. Hastie, R. Tibshirani1, 2025.
+    J. Shang, S. Chatterjee, T. Hastie, R. Tibshirani, 2025.
 
 # Undergraduate Works
 
