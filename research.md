@@ -10,7 +10,7 @@ design_image_hide_on_mobile: true
 # Recent Works
 
 * **Statistical Methodology**
-  * Pre-validation Revisited
+  * [Pre-validation Revisited](https://arxiv.org/abs/2505.14985){:target="_blank"} 
     J. Shang, S. Chatterjee, T. Hastie, R. Tibshirani, 2025.
 
 # Undergraduate Works
