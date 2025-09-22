@@ -7,6 +7,12 @@ design_image_absolute: true
 design_image_hide_on_mobile: true
 ---
 
+# Recent Works
+
+* **Statistical Methodology**
+  * Pre-validation Revisited
+    J. Shang, S. Chatterjee, T. Hastie, R. Tibshirani1, 2025.
+
 # Undergraduate Works
 
 * **Causal Inference**
