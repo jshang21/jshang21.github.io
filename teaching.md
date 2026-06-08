@@ -11,6 +11,8 @@ design_image_hide_on_mobile: true
 
 # Graduate Teaching Assistant
 
+*  **STATS 141**: Introduction to Statistics for Biology (Spring 2026, Instructor: Julia Palacios)
+*  **STATS 100**: Mathematics of Sports (Winter 2026, Instructor: Gene Kim)
 *  **STATS 110**: Introduction to Statistics for Engineering and the Sciences (2025 Summer, Instructor: Wendy Moore)
 *  **STATS 191**: Introduction to Applied Statistics (2025 Spring, Instructor: Guenther Walther)
 *  **STATS 202F**: Statistical Learning and Data Science [Flipped] (2025 Winter, Instructor: Robert Tibshirani)
