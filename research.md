@@ -7,22 +7,33 @@ design_image_absolute: true
 design_image_hide_on_mobile: true
 ---
 
-# Recent Works
+# Graduate Works
 
-* **Statistical Methodology**
-  * [Pre-validation Revisited](https://arxiv.org/abs/2505.14985){:target="_blank"} 
+* **Statistical Learning and Decision-Making**
+  * Personalized Multimodal Learning via Supervised Similarity
+    J. Shang, E. Craig, R. Tibshirani, 2026.
+    [Software demonstration](https://github.com/jshang21/personalized-multimodal-fusion){:target="_blank"}
+
+  * Learning to Price Electricity for Optimal Demand Response.
+    J. Shang, X. Zhou, M. Mehrabi, M. Saleh, A. Bernstein, S. Wager.
+   	Invited talk at INFORMS Annual 2025.
+    [Software demonstration](https://github.com/jshang21/contextual-demand-response){:target="_blank"}
+
+* **Statistical Methodology and Inference**
+  * Lassoed Forests: Random Forests with Adaptive Lasso Post-selection
+    J. Shang, J. Bannon, B. Haibe-Kains, R. Tibshirani, 2025.
+    [ArXiv](https://arxiv.org/abs/2511.06698){:target="_blank"} 
+
+  * Pre-validation Revisited
     J. Shang, S. Chatterjee, T. Hastie, R. Tibshirani, 2025.
+    [ArXiv](https://arxiv.org/abs/2505.14985){:target="_blank"} 
 
 # Undergraduate Works
-
-* **Causal Inference**
-  * Optimal Experiment Design in Direct Treatment Effect Estimation under Asymptotic Network Interference  
-    J. Shang, and S. Sen, 2023.
   
 * **Forestry Data Science**
-  * [Comparison Study of the Generalized Multivariate Difference Estimator and the Generalized Regression Estimator](https://www.causeweb.org/usproc/eusr/2022/virtual-posters/8){:target="_blank"}  
+  * Comparison Study of the Generalized Multivariate Difference Estimator and the Generalized Regression Estimator
     J. Shang\*, A. Chilambo\*, and K. McConville, 2022.  
-    <span style="color:Silver;">Electronic Undergraduate Statistics Research Conference (eUSR), 2022</span>.
+    [Electronic Undergraduate Statistics Research Conference (eUSR), 2022.](https://www.causeweb.org/usproc/eusr/2022/virtual-posters/8){:target="_blank"}
 
   * A Study on Variance Estimators and Grading System for Estimation Quality of Carbon Amount  
-    J. Shang\*, J. Yamamoto\*, and K. McConville, 2022.
+    J. Shang\*, J. Yamamoto\*, and K. McConville, 2022. [Interactive web application](https://kocyw6-jshang021.shinyapps.io/ShinyApps/){:target="_blank"}
