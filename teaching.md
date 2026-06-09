@@ -9,7 +9,7 @@ design_image_hide_on_mobile: true
 
 
 
-# Graduate Teaching Assistant
+## Graduate Teaching Assistant
 
 *  **STATS 141**: Introduction to Statistics for Biology (Spring 2026, Instructor: Julia Palacios)
 *  **STATS 100**: Mathematics of Sports (Winter 2026, Instructor: Gene Kim)
@@ -22,7 +22,7 @@ design_image_hide_on_mobile: true
 
 
 
-# Undergraduate Teaching Assistant
+## Undergraduate Teaching Assistant
 
 * **STAT 100**: Introduction to Statistics and Data Science (2022 Fall, Instructor: Kelly McConville)
 
