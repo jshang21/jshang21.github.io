@@ -9,7 +9,7 @@ design_image_hide_on_mobile: true
 
 # Graduate Works
 
-## Statistical Learning and Decision-Making
+### Statistical Learning and Decision-Making
 * **Personalized Multimodal Learning via Supervised Similarity**
     J. Shang, E. Craig, R. Tibshirani, 2026.
     [[software]](https://github.com/jshang21/personalized-multimodal-fusion){:target="_blank"}
@@ -19,7 +19,7 @@ design_image_hide_on_mobile: true
    	Invited talk at INFORMS Annual 2025.
     [[software]](https://github.com/jshang21/contextual-demand-response){:target="_blank"}
 
-## Statistical Methodology and Inference**
+### Statistical Methodology and Inference
 * **Lassoed Forests: Random Forests with Adaptive Lasso Post-selection**
     J. Shang, J. Bannon, B. Haibe-Kains, R. Tibshirani, 2025.
     [[arXiv]](https://arxiv.org/abs/2511.06698){:target="_blank"} 
@@ -30,7 +30,7 @@ design_image_hide_on_mobile: true
 
 # Undergraduate Works
   
-## Forestry Data Science**
+### Forestry Data Science
 * **Comparison Study of the Generalized Multivariate Difference Estimator and the Generalized Regression Estimator**
     J. Shang\*, A. Chilambo\*, and K. McConville, 2022.  
     [[eUSR]](https://www.causeweb.org/usproc/eusr/2022/virtual-posters/8){:target="_blank"}
