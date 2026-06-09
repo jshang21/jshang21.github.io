@@ -15,7 +15,7 @@ design_image_hide_on_mobile: true
     [[software]](https://github.com/jshang21/personalized-multimodal-fusion){:target="_blank"}
 
 * **Learning to Price Electricity for Optimal Demand Response.**
-    J. Shang, X. Zhou, M. Mehrabi, M. Saleh, A. Bernstein, S. Wager.
+    J. Shang, X. Zhou, M. Mehrabi, M. Saleh, A. Bernstein, S. Wager, 2025.
    	Invited talk at INFORMS Annual 2025.
     [[software]](https://github.com/jshang21/contextual-demand-response){:target="_blank"}
 
@@ -32,7 +32,7 @@ design_image_hide_on_mobile: true
   
 ### Forestry Data Science
 * **Comparison Study of the Generalized Multivariate Difference Estimator and the Generalized Regression Estimator.**
-    J. Shang\*, A. Chilambo\*, and K. McConville, 2022.  
+    J. Shang\*, A. Chilambo\*, and K. McConville, 2022.
     [[eUSR]](https://www.causeweb.org/usproc/eusr/2022/virtual-posters/8){:target="_blank"}
 
 * **A Study on Variance Estimators and Grading System for Estimation Quality of Carbon Amount.**
