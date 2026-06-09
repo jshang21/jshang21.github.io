@@ -7,7 +7,7 @@ design_image_absolute: true
 design_image_hide_on_mobile: true
 ---
 
-# Graduate Works
+## Graduate Works
 
 ### Statistical Learning and Decision-Making
 * **Personalized Multimodal Learning via Supervised Similarity**
@@ -28,7 +28,7 @@ design_image_hide_on_mobile: true
     J. Shang, S. Chatterjee, T. Hastie, R. Tibshirani, 2025.
     [[arXiv]](https://arxiv.org/abs/2505.14985){:target="_blank"} 
 
-# Undergraduate Works
+## Undergraduate Works
   
 ### Forestry Data Science
 * **Comparison Study of the Generalized Multivariate Difference Estimator and the Generalized Regression Estimator**
